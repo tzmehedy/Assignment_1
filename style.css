@@ -1,0 +1,73 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0;
+}
+.text_center{
+    text-align: center;
+    
+}
+.buttom-design{
+    text-align: center;
+    padding: 30px;
+    color:white;
+    font-weight: 700;
+    height: 500px;
+    background-image: url("./images/donation13.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.buttom-design a{
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    padding:10px;
+    border-radius: 5px;
+}
+.display-flexiable{
+    display: flex;
+    justify-content: center;
+
+}
+.donation_amount{
+    background-color:aliceblue;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#selected_donation_amount{
+    background-color: darksalmon;
+    border: 2px solid tomato;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+#form_center{
+    justify-content:center;
+}
+
+section input{
+    
+    text-align: center;
+    border-left: none;
+    border-right: none;
+    border-top: none;
+    border-bottom: 2px solid gray;
+    margin-top: 20px;
+    margin-left: 105px;
+    margin-bottom: 15px;
+    margin-right: 10px;
+    width: 80%;  
+}
+.button-design{
+    text-align: center;
+    color: white;
+    font-weight: 700;
+    margin-left: 600px;
+    background-color: tomato;
+    padding:10px;
+    border-radius: 5px;
+    
+    
+}
