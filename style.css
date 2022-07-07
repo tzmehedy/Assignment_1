@@ -119,3 +119,35 @@ section input{
     border:2px solid red;
     background-image: linear-gradient(orange, tomato);
 }
+.subscribe_design{
+    height: 150px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 60px;
+    padding-left:15px;
+    padding-right: 15px;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 20px;
+    background-color: lightsalmon;
+}
+.input_design{
+    padding-left: 540px;
+    padding-top: 50px;
+    height:80;
+    width:20;
+}
+.subscribe{
+    margin-left: -10px;
+   background-color: tomato;
+   padding:10px;
+}
+.email{
+    padding:10px;
+}
+
+.footer-design{
+    text-align: center;
+    color:red;
+    background-color:black;
+    height: 200px;
+}
